@@ -1,15 +1,4 @@
 
-
-<html>
-<head>
-<style>
-h1 {text-align: center;}
-
-</style>
-</head>
-<body>
-</body>
-</html>
 <h2 style="color:Orange;"> NDVI(Normalized Difference Vegetation Index): </h2>
 NDVI hay chỉ số độ xanh là chỉ số thể hiện độ xanh, mật độ và sức khỏe của thảm thực vật trong mỗi pixel của ảnh vệ tinh.
 Chỉ số này phù hợp để ước tính sức sống trong suốt chu kỳ cây trồng dựa trên cách thực vật phản ánh một số phạm vi nhất định của phổ điện từ. Nó cho phép biết trạng thái hiện tại của nó, sau đó có thể so sánh với một hình ảnh thời gian khác để quan sát sự tiến hóa của nó theo thời gian.
