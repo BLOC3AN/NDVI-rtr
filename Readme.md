@@ -59,10 +59,14 @@ Nó là một chỉ số liên quan chặt chẽ đến NDVI. Tuy nhiên, nó ch
 
  <h2 style="color:Orange;">LCI (Leaf Chlorophyll Index):</h2>
 Hàm lượng diệp lục  trong lá(Leaf Chlorophyll Index) là một biến số quan trọng đối với viễn thám nông nghiệp vì nó có mối quan hệ chặt chẽ với hàm lượng nitơ trong lá. The triangular greenness index (TGI) được phát triển dựa trên diện tích của một hình tam giác bao quanh các đặc điểm quang phổ của chất diệp lục với các điểm
+<h2 style="color:Orange;">Optimized Soil Adjusted Vegetation Index:</h2>
+
+OSAVI kết hợp với NDVIA có thể tích toán được độ che phủ của thảm thực vật thân thảo, thân gỗ từ các ảnh vệ tinh đã phân loại và xếp chống chúng với nhau.
 
 
  <h1>Công thức tham khảo:</h1>
  <h1> <img src="https://github.com/BLOC3AN/NDVI-rtr/blob/main/Cong_thuc_NDVI.png?raw=true" > </h1>
+ 
 
 Tai lieu tham khao : 
 - https://www.auravant.com/en/blog/precision-agriculture/vegetation-indices-and-their-interpretation-ndvi-gndvi-msavi2-ndre-and-ndwi/
