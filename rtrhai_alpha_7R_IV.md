@@ -32,4 +32,8 @@
     height="400"/> <p>
  <h1>Lens Agrowing multispectrial </h1>
 Cảm biến Agrowing cho phép xác định và phân loại sâu, bệnh và thiếu hụt chất dinh dưỡng bằng trí tuệ nhân tạo đa phương diện cao cấp. Cảm biến thu được 14 dải quang phổ hẹp, mỗi dải 8 Megapixel. Cảm biến mới được đảm bảo cung cấp dữ liệu có thể hành động tốt nhất cho người trồng và nhà cung cấp dịch vụ, thu được hình ảnh ở độ phân giải mặt đất 1,7cm mỗi pixel từ độ cao 100m và 0,5mm mỗi pixel từ độ cao 3m.<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8scVvhVvCMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<html>
+ <body>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8scVvhVvCMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </body>
+</html>
